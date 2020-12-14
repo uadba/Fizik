@@ -6,6 +6,7 @@ public class Baslangic {
 
 		System.out.println("Bismillah.");
 		System.out.println("Halit de geldi");
+		System.out.println("Okuldan");
 		
 	}
 
